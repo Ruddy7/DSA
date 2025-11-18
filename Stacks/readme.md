@@ -6,4 +6,4 @@ Common Operations - push(), pop(), top(), isEmpty(), size() <br><br>
 
 Implementation can be done using Aray, LinkedList and Deque <br><br>
 
-For each folder or files, check only the .java file and not .class for code implementation/solution
+For each folder or files, check only the .java file and not .class for code implementation/solution.
