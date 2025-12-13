@@ -36,11 +36,11 @@ public class levelOrder {
 
                 // Enqueue left child
                 if (node.left != null)
-                    q.offer(node.left);
+                    q.add(node.left);
 
                 // Enqueue right child
                 if (node.right != null)
-                    q.offer(node.right);
+                    q.add(node.right);
             }
             currLevel++;
         }
